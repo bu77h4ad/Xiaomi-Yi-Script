@@ -2,8 +2,7 @@
 Xiaomi Yi Script | firmware 1.5.12
 # Xiaomi Yi Z(22/23/25)L 1.5.12 customized bitrates script
 # WARNING: may be not compatible with other hardware revisions (Z2*, Z26L etc.)!
-# see https://github.com/aristofun/yi-bitrates
-# 
+ 
 
 #desactivar Auto Balance Blancos
 #t ia2 -awb off
